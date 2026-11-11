@@ -1,0 +1,27 @@
+TABLA DE VERDAD DEL OPERADOR AND
+
+El operador AND (Y) devuelve verdadero
+solamente cuando ambas condiciones son verdaderas.
+
+P = Verdadero
+Q = Verdadero
+P AND Q = Verdadero
+
+P = Verdadero
+Q = Falso
+P AND Q = Falso
+
+P = Falso
+Q = Verdadero
+P AND Q = Falso
+
+P = Falso
+Q = Falso
+P AND Q = Falso
+
+Ejemplo cotidiano:
+Para entrar al cine necesito tener boleto
+Y ser mayor de edad.
+
+Ambas condiciones deben cumplirse
+para que el resultado sea verdadero.
