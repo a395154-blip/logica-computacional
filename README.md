@@ -10,3 +10,7 @@ Identificar si un número es par o impar.
 ## Herramientas
 - Pseudocódigo.
 - GitHub.
+## Lo que aprendí
+- Un repositorio sirve para organizar y guardar archivos de un proyecto.
+- Un commit sirve para registrar los cambios realizados.
+- Una rama sirve para trabajar en modificaciones sin alterar directamente la rama principal.
